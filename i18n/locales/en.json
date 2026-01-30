@@ -1,0 +1,34 @@
+{
+  "companyName": "hongtu",
+  "logo": "/images/locales/en/logo.png",
+  "app": {
+    "keywords": "Easy Class Scheduling, Flexible Class Scheduling, New Gaokao (National College Entrance Examination) 7-out-of-3 Subject Selection, Class Scheduling System, Class Grouping, Flexible Class System, Flexible Class Teaching, New Gaokao Reform, No Separation of Arts and Science Subjects, Lesson Planning Software, Differentiated Instruction, High School Subject Selection and Scheduling, Flexible Class Scheduling Software, New Gaokao Reform Plan 2018, New Gaokao Subject Selection Suggestions",
+    "description": "PaiKeYi Intelligent Class Scheduling Software addresses the practical challenges of unifying the needs of students, teachers, and schools in flexible class scheduling.  It provides a comprehensive solution for flexible teaching, including campus collaboration tools, intelligent course selection tools, and faster, smarter, and more user-friendly resources for lesson planning and course selection. Differentiated instruction ensures that every student receives ample opportunities for development."
+  },
+  "menu": {
+    "home": "Home",
+    "product": "Product",
+    "news": "News",
+    "joinUs": "JoinUs",
+    "aboutUs": "AboutUs",
+    "contactUs": "ContactUs"
+  },
+  "homePage": {
+    "title": "Home"
+  },
+  "productPage": {
+    "title": "Product and services"
+  },
+  "newsPage": {
+    "title": "News Center"
+  },
+  "aboutUsPage": {
+    "title": "AboutUs"
+  },
+  "contactUsPage": {
+    "title": "ContactUs"
+  },
+  "joinUsPage": {
+    "title": "JoinUs"
+  }
+}

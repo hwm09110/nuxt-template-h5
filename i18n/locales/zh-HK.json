@@ -1,0 +1,34 @@
+{
+  "companyName": "宏途數科",
+  "logo": "/images/locales/zh-HK/logo.png",
+  "app": {
+    "keywords": "排課易,走班排課,新高考7選3,排課系統,分班,走班制,走班教學,新高考改革,文理不分科,備課軟件,分層教學,高中選排課,走班排課軟件,高考改革新方案2018,新高考選科建議",
+    "description": "排課易智能走班排課軟件,解決了走班教學學生、教師、學校各方訴求難統一的實際難題，提供校園辦公協同、智能排選課工具和更快捷、更智能、更貼心備課選課資源的走班教學整體解決方案。分層次教學，讓每一位學生都能得到充分發展。"
+  },
+  "menu": {
+    "home": "首頁",
+    "product": "產品中心",
+    "news": "新聞中心",
+    "joinUs": "加入我們",
+    "aboutUs": "關於我們",
+    "contactUs": "聯繫我們"
+  },
+  "homePage": {
+    "title": "首頁"
+  },
+  "productPage": {
+    "title": "產品服務"
+  },
+  "newsPage": {
+    "title": "新聞中心"
+  },
+  "aboutUsPage": {
+    "title": "關於我們"
+  },
+  "contactUsPage": {
+    "title": "聯繫我們"
+  },
+  "joinUsPage": {
+    "title": "加入我們"
+  }
+}

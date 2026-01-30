@@ -1,0 +1,14 @@
+/dist/*
+.local
+.vscode
+.nuxt
+.output/*
+.output.js
+/node_modules/**
+
+**/*.svg
+**/*.sh
+
+/public/*
+
+
