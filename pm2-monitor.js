@@ -13,7 +13,7 @@ const CONFIG = {
     secure: true,
     auth: {
       user: '771734186@qq.com', // 你的发件人地址
-      pass: 'wosabulncodbbaic', // 你的 SMTP 授权码
+      pass: 'SMTP授权码', // 你的 SMTP 授权码
     },
   },
   // 收发件详情
